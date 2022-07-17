@@ -1,7 +1,4 @@
 # insects Detection with flutter and deep learning model with python 
-
-A new Flutter project.
-
 ![j](https://user-images.githubusercontent.com/82996452/179418285-2da6ef22-4091-418d-b47e-f6f8b41f84bf.jpeg)
 ![WhatsApp Image 2022-06-21 at 1 13 42 AM](https://user-images.githubusercontent.com/82996452/179418289-5f558aab-c153-40dd-9c16-edb4f5a67d53.jpeg)
 ![WhatsApp Image 2022-06-21 at 1 13 43 AM (1)](https://user-images.githubusercontent.com/82996452/179418292-09d3ca35-2c15-4f3d-86da-13c981cfaab5.jpeg)
